@@ -2,3 +2,7 @@
 *.test
 *.out
 .DS_Store
+
+# OpenSpec and agent tooling
+openspec/
+.agents/
